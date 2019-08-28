@@ -1,0 +1,1 @@
+print("hej blyat jag är putnick")
