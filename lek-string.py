@@ -4,7 +4,6 @@ lastName = "Dougherty"
 
 nickName = "Pebble"
 
-
 # för.efternamn
 # patrick.dougherty
 # firstName[3].lastName[3]
@@ -32,31 +31,9 @@ print(skolmail)
 
 
 
-
-
-
-
-
-
-
-
-
 print(firstName.upper())
 print(middleName.lower())
 print(lastName.strip())
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
