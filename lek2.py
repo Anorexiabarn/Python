@@ -1,5 +1,5 @@
 # variabler för att komma ihåg namn och ålder
-restriction = "hellow"
+restriction = "Welcome"
 minimum = 18
 # läsa in namn
 firstName = input("Skriv in ditt förstanamn: ")
